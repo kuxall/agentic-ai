@@ -1,9 +1,0 @@
-streamlit
-langchain_community
-langchain-openai
-faiss-cpu
-openai
-python-dotenv
-rich
-beautifulsoup4
-requests 
